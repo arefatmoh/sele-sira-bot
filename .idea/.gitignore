@@ -6,3 +6,11 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+.env
+*.db
+
+__pycache__/
+*.pyc
+venv/
+.idea/
+
